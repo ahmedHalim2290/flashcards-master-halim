@@ -1,0 +1,17 @@
+{
+  "name": "fashcards-master-halim",
+  "displayName": "fashcards-master-halim",
+  "expo": {
+    "name": "fashcards-master-halim",
+    "slug": "fashcards-master-halim",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
