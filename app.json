@@ -1,9 +1,9 @@
 {
-  "name": "fashcards-master-halim",
-  "displayName": "fashcards-master-halim",
+  "name": "flashcards-master-halim",
+  "displayName": "flashcards-master-halim",
   "expo": {
-    "name": "fashcards-master-halim",
-    "slug": "fashcards-master-halim",
+    "name": "flashcards-master-halim",
+    "slug": "flashcards-master-halim",
     "version": "1.0.0",
     "platforms": [
       "ios",
